@@ -1,3 +1,2 @@
 # Calculadora de IMC
-
-Aplicativo de uma calculadora de IMC
+Grupo: Kauan Nunes, Pedro Justiniano, Ricardo Amorin
